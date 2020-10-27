@@ -11,5 +11,8 @@ This repository is objected to have all the assignments and project related to I
  </ol>
  <h2> Contributors </h2>
  <ul>
-  <li><a href = "https://linkedin.com/achal2702"> Achalesh Lakhotiya </a></li>
+  <li><a href = "https://www.linkedin.com/in/achal2702"> Achalesh Lakhotiya </a></li>
+  <li><a href = "#"> Shalin Gupta </a></li>
+  <li><a href = "#"> Vishvas Bansal </a></li>
+  <li><a href = "#"> Bhavesh Soni </a></li>
   </ul>
