@@ -11,5 +11,5 @@ This repository is objected to have all the assignments and project related to I
  </ol>
  <h2> Contributors </h2>
  <ul>
-  <li href = "https://linkedin.com/achal2702"> Achalesh Lakhotiya </li>
+  <li><a href = "https://linkedin.com/achal2702"> Achalesh Lakhotiya </a></li>
   </ul>
