@@ -17,6 +17,8 @@ This repository is objected to have all the assignments and project related to I
   <li>ML.png</li>
   <li>KNN.png</li>
   <li>Flattening.png</li>
+  <li>Flatten.png</li>
+  <li>Python Technical Report.docx</li>
 </ol>  
  <h1> Contributors </h1>
  <ul>
