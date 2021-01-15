@@ -1,5 +1,6 @@
 # Python-Assignments-IWT
 This repository is objected to have all the assignments and project related to IWT (Semester - 3).
+This repository is also objected to submission as MLH LHD challenge <i> Create a project using Dataset</i>.
 <h1> Questions in Assignment - 1</h1>
 <p> Questions are in <b><span>assignment.pdf</span></b> file.</p>
 <h1> Solution Files Related To Assignment - 1</h1>
@@ -19,11 +20,9 @@ This repository is objected to have all the assignments and project related to I
   <li>Flattening.png</li>
   <li>Flatten.png</li>
   <li>Python Technical Report.docx</li>
+  <li> mnist_train_small.npy</li>
 </ol>  
  <h1> Contributors </h1>
  <ul>
   <li><a href = "https://www.linkedin.com/in/achal2702"> Achalesh Lakhotiya </a></li>
-  <li><a href = "#"> Shalin Gupta </a></li>
-  <li><a href = "#"> Vishvas Bansal </a></li>
-  <li><a href = "#"> Bhavesh Soni </a></li>
   </ul>
